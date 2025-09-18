@@ -1,4 +1,4 @@
-# ROCKETTRIP
+# ROCKETRIP
 first project
 
 This is my very first project involving programming, so please excuse any mistakes.  
